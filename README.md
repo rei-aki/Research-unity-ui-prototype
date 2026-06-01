@@ -5,12 +5,12 @@ This repository serves as a showcase for my academic research project (*uurimist
 
 The practical part of my project was dedicated to designing and building an interactive user interface (UI/UX). I focused on establishing a logical layout, ensuring seamless user flow, and maintaining clear, context-aware text positioning. This prototype was a core element of my research into time-management and application design logic.
 
-## Key Focus Areas (QA & Localization Perspective)
-* **Text Layout & Alignment:** Ensured all text elements fit perfectly within the UI boundaries and adaptive menus.
-* **User Flow Validation:** Tested and structured the interactive logic to guarantee an intuitive navigation experience.
-* **Contextual Design:** Aligned the visual style and textual components with the core theme of the application.
+ Key Focus Areas 
+* Text layout: Ensured all text elements fit perfectly within the UI boundaries and adaptive menus.
+* User flow validation: Tested and structured the interactive logic to guarantee an intuitive navigation experience.
+* Contextual design: Aligned the visual style and textual components with the core theme of the application.
 
-## Project Materials
+Project Materials
 All project files, including the full academic text and a visual demonstration, are hosted on Google Drive. You can access them directly via the links below:
 
 * [Read the Full Research Paper on Google Drive (in Estonian)](https://docs.google.com/document/d/1VEz4T0Qo8c_vC6TbMrZLl-uLWSk66cxg/edit?usp=drive_link&ouid=112018558966427890115&rtpof=true&sd=true)
